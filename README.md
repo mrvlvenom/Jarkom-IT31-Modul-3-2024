@@ -1,4 +1,4 @@
-# Jarkom-Modul-3-IT31-2024
+# Jarkom-IT31-Modul-3-2024
 
 | No | Nama | NRP |
 |---|---|---|
@@ -7,7 +7,7 @@
 
 ## SOAL SHIFT MODUL 3
 ### TOPOLOGI
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/topologi_soal.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/topologi_soal.png)
 
 ### CONFIGURE
 1. Arakis (Router(DHCP Relay))
@@ -309,11 +309,11 @@ service bind9 start
 Kemudian dijalankan, dan kita test pada setiap client yaitu Dmitri dan Paul, dan hasilnya seperti berikut:
 a. Dmitri (Client 1)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no1_c1.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no1_c1.png)
 
 b. Paul (CLient 2)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no1_c2.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no1_c2.png)
 
 ### CASE 1
 Kemudian, karena masih banyak spice yang harus dikumpulkan, bantulah para aterides untuk bersaing dengan harkonen dengan kriteria berikut.:
@@ -355,7 +355,7 @@ subnet 192.232.3.0 netmask 255.255.255.0 {
 - Testing
 a. Dmitri (Client 1)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/ip_a_dmitri.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/ip_a_dmitri.png)
 
 ### PROBLEM
 ---
@@ -388,7 +388,7 @@ subnet 192.232.4.0 netmask 255.255.255.0 {
 - Testing
 a. Paul (Client 2)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/ip_a_paul.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/ip_a_paul.png)
 
 ### PROBLEM
 ---
@@ -448,11 +448,11 @@ Kemudian hasilnya akan seperti berikut:
 
 a. Dmitri (Client 1)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no4_c1.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no4_c1.png)
 
 b. Paul (CLient 2)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no4_c2.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no4_c2.png)
 
 ### PROBLEM
 ---
@@ -533,11 +533,11 @@ Kemudian hasilnya akan seperti berikut:
 
 a. Dmitri (Client 1)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no5_c1.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no5_c1.png)
 
 b. Paul (CLient 2)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no5_c2.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no5_c2.png)
 
 ### CASE 2
 Seiring berjalannya waktu kondisi semakin memanas, untuk bersiap perang. Klan Harkonen melakukan deployment sebagai berikut
@@ -586,15 +586,15 @@ Jalanin Perintah "lynx localhost" pada masing-masing client dan hasilnya akan se
 
 a. Vladimir:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no6_p1.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no6_p1.png)
 
 b. Rabban:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no6_p2.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no6_p2.png)
 
 c. Feyd:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no6_p3.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no6_p3.png)
 
 ### PROBLEM
 ---
@@ -743,16 +743,16 @@ Dan hasilnya sebagai berikut:
 a. Dmitri:
 Dan waktu yang dihasilkan adalah Requests per second: 2238.62 [#/sec] (mean) serta yang dibutuhkan adalah sebagai berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no7_c1.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no7_c1.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no7_c1a.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no7_c1a.png)
 
 b. Paul:
 Dan waktu yang dihasilkan adalah Requests per second: 1238.16 [#/sec] (mean) serta yang dibutuhkan adalah sebagai berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no7_c2.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no7_c2.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no7_c2a.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no7_c2a.png)
 
 ### PROBLEM
 ---
@@ -890,9 +890,9 @@ ab -n 500 -c 50 http://www.harkonen.it31.com/roundrobin/
 ```
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no8_c1RR.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no8_c1RR.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_c1RR.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_c1RR.png)
 
 2. Least Connection
 ```bash
@@ -900,9 +900,9 @@ ab -n 500 -c 50 http://www.harkonen.it31.com/leastconn/
 ```
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no8_c1LS.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no8_c1LS.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_c1LC.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_c1LC.png)
 
 3. Weighted Round Robin
 ```bash
@@ -910,9 +910,9 @@ ab -n 500 -c 50 http://www.harkonen.it31.com/weightedrr/
 ```
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no8_c1WR.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no8_c1WR.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_c1WR.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_c1WR.png)
 
 4. IP Hash
 ```bash
@@ -920,13 +920,13 @@ ab -n 500 -c 50 http://www.harkonen.it31.com/iphash/
 ```
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no8_c1IH.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no8_c1IH.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_c1IH.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_c1IH.png)
 
 c. Setelah itu, kita analisis menggunakan grafik:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_grafik.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_grafik.png)
 
 ### PROBLEM
 ---
@@ -943,27 +943,27 @@ ab -n 1000 -c 100 http://www.harkonen.it31.com/leastconn/
 a. 3 worker
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9c.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9c.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9d.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9d.png)
 
 b. 2 Worker
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9a.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9a.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9b.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9b.png)
 
 c. 1 worker
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no8_c1LS.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no8_c1LS.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_c1LC.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_c1LC.png)
 
 d. Kemudian hasil dari ketiga grafik tersebut adalah:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_grafik_9.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_grafik_9.png)
 
 ### PROBLEM
 ---
@@ -980,27 +980,27 @@ ab -n 1000 -c 100 http://www.harkonen.it31.com/leastconn/
 a. 3 worker
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9c.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9c.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9d.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9d.png)
 
 b. 2 Worker
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9a.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9a.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_9b.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_9b.png)
 
 c. 1 worker
 Dan hasilnya seperti berikut:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/no8_c1LS.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/no8_c1LS.png)
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_no8_c1LC.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_no8_c1LC.png)
 
 d. Kemudian hasil dari ketiga grafik tersebut adalah:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_grafik_9.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_grafik_9.png)
 
 ### PROBLEM
 ---
@@ -1054,15 +1054,17 @@ Jika sudah memasukkan password dan re-type password. Sekarang bisa dicoba dengan
 
 maka akan muncul warning awalnya, namun nantinya akan diminta memasukkan username dan password seperti di bawah ini:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_10_error.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_10_error.png)
 
 Kemudian akan muncul disuruh memasukkan nama dan password yang sudah dibuat yaitu username = secmart dan password = kcksit31. Dan hasilnya seperti ini:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_10_pw.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_10_login.png)
+
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_10_pw.png)
 
 Dan akan muncul tampilan seperti awal:
 
-![](https://github.com/mrvlvenom/Jarkom-Modul-2-IT31-2024/blob/main/img/hasil_10.png)
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_10.png)
 
 ### PROBLEM
 ---
@@ -1111,11 +1113,13 @@ server {
 }' > /etc/nginx/sites-available/lb_php
 ```
 
-Maksudnya adalah ketika kita melakukan akses pada endpoint yang mengandung /dunemovie akan diarahkan oleh proxy_pass menuju https://www.dunemovie.com.au. Jadi ketika melakukan testing pada client Revolte dengan menggunakan perintah berikut:
+Maksudnya adalah ketika kita melakukan akses pada endpoint yang mengandung /dunemovie akan diarahkan oleh proxy_pass menuju https://www.dunemovie.com.au. Jadi ketika melakukan testing pada client Dmitri dengan menggunakan perintah berikut:
 
 ```bash
 lynx www.harkonen.it31.com/dunemovie
 ```
+Dan hasilnya seperti berikut:
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_11.png)
 
 ### PROBLEM
 ---
@@ -1123,3 +1127,358 @@ lynx www.harkonen.it31.com/dunemovie
 
 ### SOLUTION
 ---
+Untuk problem ini kita tinggal menambahkan script pada load balancer sebelumnya:
+```bash
+echo '
+    upstream worker { # (ip_hash, least_conn, hash $request_uri consistent)
+    #hash $request_uri consistent;
+    #least_conn;
+    #ip_hash;
+    server 192.232.1.1:80;
+    server 192.232.1.2:80;
+    server 192.232.1.3:80;
+}
+
+ server {
+        listen 80;
+        root /var/www/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name harkonen.it31.com;
+
+        location / {
+                allow 192.232.1.37;
+                allow 192.232.1.67;
+                allow 192.232.2.203;
+                allow 192.232.2.207;
+                deny all;
+                proxy_pass http://worker;
+                auth_basic "Restricted Access";
+                auth_basic_user_file /etc/nginx/supersecret/.htpasswd;
+        }
+
+        location /dune {
+                proxy_pass https://www.dunemovie.com.au/;
+                proxy_set_header Host www.dunemovie.com.au;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header X-Forwarded-Proto $scheme;
+                auth_basic "Restricted Access";
+                auth_basic_user_file /etc/nginx/supersecret/.htpasswd;
+        }
+} ' > /etc/nginx/sites-available/lb_php
+```
+Kemudian menambahkan hwadress pada dmitri, dan hasilnya seperti berikut:
+
+![](https://github.com/mrvlvenom/Jarkom-IT31-Modul-3-2024/blob/main/img/hasil_11.png)
+
+### PROBLEM
+---
+NO 13 - 20
+1. Semua data yang diperlukan, diatur pada Chani dan harus dapat diakses oleh Leto, Duncan, dan Jessica. (13)
+2. Leto, Duncan, dan Jessica memiliki atreides Channel sesuai dengan quest guide berikut. Jangan lupa melakukan instalasi PHP8.0 dan Composer (14)
+3. Atreides Channel memiliki beberapa endpoint yang harus ditesting sebanyak 100 request dengan 10 request/second. Tambahkan response dan hasil testing pada peta.
+- POST /auth/register (15)
+- POST /auth/login (16)
+- GET /me (17)
+4. Untuk memastikan ketiganya bekerja sama secara adil untuk mengatur atreides Channel maka implementasikan Proxy Bind pada Stilgar untuk mengaitkan IP dari Leto, Duncan, dan Jessica. (18)
+5. Untuk meningkatkan performa dari Worker, coba implementasikan PHP-FPM pada Leto, Duncan, dan Jessica. Untuk testing kinerja naikkan
+- pm.max_children
+- pm.start_servers
+- pm.min_spare_servers
+- pm.max_spare_servers
+6. sebanyak tiga percobaan dan lakukan testing sebanyak 100 request dengan 10 request/second kemudian berikan hasil analisisnya pada PDF.(19)
+7. Nampaknya hanya menggunakan PHP-FPM tidak cukup untuk meningkatkan performa dari worker maka implementasikan Least-Conn pada Stilgar. Untuk testing kinerja dari worker tersebut dilakukan sebanyak 100 request dengan 10 request/second. (20)
+
+### SOLUTION
+---
+
+13. Pada Worker Databse Chani kita jalankan bash berikut untuk init mariadb server:
+```bash
+echo 'nameserver 192.168.122.1' > /etc/resolv.conf
+
+apt-get update
+apt-get install isc-dhcp-server -y
+```
+Ganti bind address pada /etc/mysql/mariadb.conf.d/50-server.cnf menjadi 0.0.0.0, lalu jalankan script mariadb-server.sh
+```bash
+mysql <<EOF
+CREATE USER 'kelompokit31'@'%' IDENTIFIED BY 'passwordit31';
+CREATE USER 'kelompokit31'@'localhost' IDENTIFIED BY 'passwordit31';
+CREATE DATABASE dbkelompokit31;
+GRANT ALL PRIVILEGES ON dbkelompokit31.* TO 'kelompokit31'@'%';
+GRANT ALL PRIVILEGES ON dbkelompokit31.* TO 'kelompokit31'@'localhost';
+FLUSH PRIVILEGES;
+EOF
+
+echo '[client-server]
+
+!includedir /etc/mysql/conf.d/
+!includedir /etc/mysql/mariadb.conf.d/
+
+[mysqld]
+skip-networking=0
+skip-bind-address
+' > /etc/mysql/my.cnf
+
+service mysql restart
+```
+
+14. Pada Worker Laravel Leto, Duncan, dan Jessica jalankan script worker-laravel.sh
+```bash
+apt-get install php7.3-fpm php7.3-common php7.3-mysql php7.3-gmp php7.3-curl php7.3-intl php7.3-mbstring php7.3-xmlrpc php7.3-gd php7.3-xml php7.3-cli php7.3-zip -y
+service php7.3-fpm start
+
+cd /var/www/laravel-praktikum-jarkom && composer update
+composer install
+
+
+cp /var/www/laravel-praktikum-jarkom/.env.example /var/www/laravel-praktikum-jarkom/.env
+
+echo 'APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=
+APP_DEBUG=true
+APP_URL=http://localhost
+
+LOG_CHANNEL=stack
+LOG_DEPRECATIONS_CHANNEL=null
+LOG_LEVEL=debug
+
+DB_CONNECTION=mysql
+DB_HOST=192.232.4.1
+DB_PORT=3306
+DB_DATABASE=dbkelompokit31
+DB_USERNAME=kelompokit31
+DB_PASSWORD=passwordit31
+
+BROADCAST_DRIVER=log
+CACHE_DRIVER=file
+FILESYSTEM_DISK=local
+QUEUE_CONNECTION=sync
+SESSION_DRIVER=file
+SESSION_LIFETIME=120
+
+MEMCACHED_HOST=127.0.0.1
+
+REDIS_HOST=127.0.0.1
+REDIS_PASSWORD=null
+REDIS_PORT=6379
+
+MAIL_MAILER=smtp
+MAIL_HOST=mailpit
+MAIL_PORT=1025
+MAIL_USERNAME=null
+MAIL_PASSWORD=null
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS="hello@example.com"
+MAIL_FROM_NAME="${APP_NAME}"
+
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_DEFAULT_REGION=us-east-1
+AWS_BUCKET=
+AWS_USE_PATH_STYLE_ENDPOINT=false
+
+PUSHER_APP_ID=
+PUSHER_APP_KEY=
+PUSHER_APP_SECRET=
+PUSHER_HOST=
+PUSHER_PORT=443
+PUSHER_SCHEME=https
+PUSHER_APP_CLUSTER=mt1
+
+VITE_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
+VITE_PUSHER_HOST="${PUSHER_HOST}"
+VITE_PUSHER_PORT="${PUSHER_PORT}"
+VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
+VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
+' > /var/www/laravel-praktikum-jarkom/.env
+
+service nginx start
+cd /var/www/laravel-praktikum-jarkom
+composer update
+composer install
+service nginx start
+php artisan migrate:fresh
+php artisan db:seed --class=AiringsTableSeeder
+php artisan key:generate
+php artisan config:cache
+php artisan migrate
+php artisan db:seed
+php artisan storage:link
+php artisan jwt:secret
+php artisan config:clear
+chown -R www-data.www-data /var/www/laravel-praktikum-jarkom/storage
+
+echo 'server {
+
+    listen 8001;
+
+    root /var/www/laravel-praktikum-jarkom/public;
+
+    index index.php index.html index.htm;
+    server_name _;
+
+    location / {
+            try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/var/run/php/php8.0-fpm.sock;
+    }
+
+location ~ /\.ht {
+            deny all;
+    }
+
+    error_log /var/log/nginx/fff_error.log;
+    access_log /var/log/nginx/fff_access.log;
+}
+' > /etc/nginx/sites-available/fff
+
+ln -s /etc/nginx/sites-available/fff /etc/nginx/sites-enabled/
+chown -R www-data.www-data /var/www/laravel-praktikum-jarkom/storage
+service php8.0-fpm start
+service nginx restart
+```
+    
+15. Untuk melakukan POST request regiester username dan password kami memilih untuk menggunakan file json untuk melakukan request.
+```bash
+echo '{
+  "username": "kelompokit31",
+  "password": "passwordit31"
+}' > register.json
+```
+Lalu kita bisa request dengan command ab -n 100 -c 10 -p register.json -T application/json http://192.232.4.2/api/auth/register
+
+16. Untuk melakukan POST request kita bisa menggunakan credentials sebelumnya pada file register.json dan kami akan copy ke file login.json
+Lalu kita bisa request dengan command ab -n 100 -c 10 -p login.json -T application/json http://192.232.4.2/api/auth/login
+
+17. Untuk melakukan request GET ke /me kita perlu token login terlebih dahulu, untuk mendapatkan login token kita bisa menggunakan cara berikut :
+curl -X POST -H "Content-Type: application/json" -d @login.json http://192.232.4.2:5027/api/auth/login > login_token.txt
+
+Lalu kita akan menggunakan login token tersebut untuk login: token=$(cat login_output.txt | jq -r '.token') && ab -n 100 -c 10 -H "Authorization: Bearer $token" http://192.232.4.2/api/me
+
+18. Kita bisa setup load balancer untuk worker Laravel dengan Script berikut:
+```bash
+echo 'upstream laravel_worker {
+    server 192.232.2.1;
+    server 192.232.2.2;
+    server 192.232.2.3;
+}
+
+server {
+    listen 80;
+    server_name atreides.it05.com;
+
+    root /var/www/atreides.it05.com;
+    index index.html index.htm index.nginx-debian.html;
+
+    location / {
+        proxy_pass http://laravel_worker;
+    }
+
+    error_log /var/log/nginx/lb_error.log;
+    access_log /var/log/nginx/lb_access.log;
+}
+' > /etc/nginx/sites-available/lb_nginx
+
+service nginx restart
+```
+19. Pada setiap worker kita bisa set masing masing opsi konfigurasi pada script berikut:
+1. Script 1:
+```bash
+echo '[www]
+user = www-data
+group = www-data
+listen = /run/php/php8.0-fpm.sock
+listen.owner = www-data
+listen.group = www-data
+php_admin_value[disable_functions] = exec,passthru,shell_exec,system
+php_admin_flag[allow_url_fopen] = off
+
+; Choose how the process manager will control the number of child processes.
+
+pm = dynamic
+pm.max_children = 5
+pm.start_servers = 2
+pm.min_spare_servers = 1
+pm.max_spare_servers = 3' > /etc/php/8.0/fpm/pool.d/www.conf
+
+service php8.0-fpm restart
+```
+
+2. Script 2:
+```bash
+echo '[www]
+user = www-data
+group = www-data
+listen = /run/php/php8.0-fpm.sock
+listen.owner = www-data
+listen.group = www-data
+php_admin_value[disable_functions] = exec,passthru,shell_exec,system
+php_admin_flag[allow_url_fopen] = off
+
+; Choose how the process manager will control the number of child processes.
+
+pm = dynamic
+pm.max_children = 25
+pm.start_servers = 5
+pm.min_spare_servers = 3
+pm.max_spare_servers = 10' > /etc/php/8.0/fpm/pool.d/www.conf
+
+service php8.0-fpm restart
+```
+
+3. Script 3:
+```bash
+echo '[www]
+user = www-data
+group = www-data
+listen = /run/php/php8.0-fpm.sock
+listen.owner = www-data
+listen.group = www-data
+php_admin_value[disable_functions] = exec,passthru,shell_exec,system
+php_admin_flag[allow_url_fopen] = off
+
+; Choose how the process manager will control the number of child processes.
+
+pm = dynamic
+pm.max_children = 50
+pm.start_servers = 8
+pm.min_spare_servers = 5
+pm.max_spare_servers = 15' > /etc/php/8.0/fpm/pool.d/www.conf
+
+service php8.0-fpm restart
+```
+
+20. Untuk setup load balancer least connection kita bisa config nginx dengan script berikut
+```bash
+echo 'upstream laravel_worker {
+    least_conn;
+    server 192.232.2.1;
+    server 192.232.2.2;
+    server 192.232.2.3;
+}
+
+server {
+    listen 80;
+    server_name atreides.it31.com;
+
+    root /var/www/atreides.it31.com;
+    index index.html index.htm index.nginx-debian.html;
+
+    location / {
+        proxy_pass http://laravel_worker;
+    }
+
+    error_log /var/log/nginx/lb_error.log;
+    access_log /var/log/nginx/lb_access.log;
+}
+' > /etc/nginx/sites-available/lb_nginx
+
+service nginx restart
+```
+
